@@ -1,7 +1,7 @@
 # reactsutdy
 
 
-## 包管理器npm 
+## 包管理器npm ##
 
 ### 安装包：###
 
@@ -76,3 +76,7 @@ jsx在网页上不能直接浏览，需要进行编译后才能浏览
 - 组件(属性,状态)
 - Virtual DOM
 
+# sass参考手册
+> Sass 是对 CSS 的扩展，让 CSS 语言更强大、优雅。 它允许你使用变量、嵌套规则、 mixins、导入等众多功能， 并且完全兼容 CSS 语法。 Sass 有助于保持大型样式表结构良好， 同时也让你能够快速开始小型项目， 特别是在搭配 Compass 样式库一同使用时
+
+[sass参考手册](http://sass.bootcss.com/docs/sass-reference/)
